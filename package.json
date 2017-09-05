@@ -1,0 +1,115 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ng2f-server@^0.2.4",
+        "scope": null,
+        "escapedName": "ng2f-server",
+        "name": "ng2f-server",
+        "rawSpec": "^0.2.4",
+        "spec": ">=0.2.4 <0.3.0",
+        "type": "range"
+      },
+      "D:\\Users\\FBH154\\Documents\\perso\\Formation\\Web\\angular\\angular2RoutingFinal"
+    ]
+  ],
+  "_from": "ng2f-server@>=0.2.4 <0.3.0",
+  "_id": "ng2f-server@0.2.4",
+  "_inCache": true,
+  "_location": "/ng2f-server",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ng2f-server-0.2.4.tgz_1476121636811_0.9556849016807973"
+  },
+  "_npmUser": {
+    "name": "jmcooper",
+    "email": "jim@cooperplanet.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {
+    "array-flatten": "1.1.1",
+    "content-disposition": "0.5.1",
+    "content-type": "1.0.2",
+    "cookie-signature": "1.0.6",
+    "debug": "2.2.0",
+    "depd": "1.1.0",
+    "destroy": "1.0.4",
+    "escape-html": "1.0.3",
+    "fresh": "0.3.0",
+    "inherits": "2.0.3",
+    "merge-descriptors": "1.0.1",
+    "methods": "1.1.2",
+    "mime-types": "2.1.15",
+    "ms": "0.7.1",
+    "on-finished": "2.3.0",
+    "parseurl": "1.3.1",
+    "path-to-regexp": "0.1.7",
+    "proxy-addr": "1.0.10",
+    "type-is": "1.6.15",
+    "unpipe": "1.0.0",
+    "utils-merge": "1.0.0",
+    "vary": "1.0.1"
+  },
+  "_requested": {
+    "raw": "ng2f-server@^0.2.4",
+    "scope": null,
+    "escapedName": "ng2f-server",
+    "name": "ng2f-server",
+    "rawSpec": "^0.2.4",
+    "spec": ">=0.2.4 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng2f-server/-/ng2f-server-0.2.4.tgz",
+  "_shasum": "4cd53a190842d05fca126f3fb6bffdd34fa25275",
+  "_shrinkwrap": null,
+  "_spec": "ng2f-server@^0.2.4",
+  "_where": "D:\\Users\\FBH154\\Documents\\perso\\Formation\\Web\\angular\\angular2RoutingFinal",
+  "author": {
+    "name": "Jim Cooper"
+  },
+  "bugs": {
+    "url": "https://github.com/jmcooper/ng2f-server/issues"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "cookie-parser": "1.4.1",
+    "express": "4.13.4",
+    "express-session": "1.13.0",
+    "morgan": "1.7.0",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0"
+  },
+  "description": "An express server for use in an Angular 2 Fundamentals course",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4cd53a190842d05fca126f3fb6bffdd34fa25275",
+    "tarball": "https://registry.npmjs.org/ng2f-server/-/ng2f-server-0.2.4.tgz"
+  },
+  "gitHead": "e1fef8b999e65dbc0874d3f12d36c8615ee5f8a6",
+  "homepage": "https://github.com/jmcooper/ng2f-server#readme",
+  "license": "ISC",
+  "main": "server/server.js",
+  "maintainers": [
+    {
+      "name": "jmcooper",
+      "email": "jim@cooperplanet.com"
+    }
+  ],
+  "name": "ng2f-server",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmcooper/ng2f-server.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.4"
+}
